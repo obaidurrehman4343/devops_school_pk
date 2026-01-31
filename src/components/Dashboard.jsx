@@ -13,7 +13,7 @@
 
 // export default Dashboard;
 import Header from "./Header";
-import Hero from "./Hero";
+import Hero from "./hero";
 import Challenges from "./Challenges";
 import Solutions from "./Solutions";
 import "./../styles/Dashboard.css"; // Make sure this exists or create it
