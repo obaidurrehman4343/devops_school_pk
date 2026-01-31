@@ -1,0 +1,22 @@
+/* Dashboard.css - Global fixes */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dashboard {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* Debug borders for sections */
+.dashboard > section {
+    border: 2px solid transparent; /* Change to red for debugging */
+}
+
+/* Remove any default margins */
+body {
+    margin: 0;
+    padding: 0;
+}
